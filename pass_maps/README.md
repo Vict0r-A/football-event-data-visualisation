@@ -31,7 +31,11 @@ The resulting pass map allows users to visualise and understand how teams build 
 - Comments throughout the code explaining functionality and logic throughout so other developers can understand.
 - Created a `README.md` to document the functionality of the code and ensure its reproducibility.
 
+# Project Structure
 
+├── README.md
+├── requirements.txt
+└── football_data.ipynb
 
 
 
